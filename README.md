@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Solidity: lack of input validation in arithmetic functions. The `bug.sol` file shows a simple addition function that fails if non-numeric inputs are provided. The `bugSolution.sol` file provides a solution that includes input validation to handle these cases more robustly.
